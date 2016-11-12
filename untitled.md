@@ -1,4 +1,4 @@
-\section{# GitHub:}
+# GitHub:
 
 ##   Version Control
 - Knowledge Work
