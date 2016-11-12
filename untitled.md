@@ -33,4 +33,4 @@
     - README.md
 
 ## Markdown - 
-  Enable TRL: \‫ RTLtext \<br/> (Or empty line)
+  Enable TRL: \&#x202b; ‫ RTLtext \<br/> (Or empty line)
