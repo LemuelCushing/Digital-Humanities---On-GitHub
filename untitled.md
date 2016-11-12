@@ -1,4 +1,5 @@
-# GitHub:
+\section{# GitHub:}
+
 ##   Version Control
 - Knowledge Work
      - Kanban
@@ -32,4 +33,4 @@
     - README.md
 
 ## Markdown - 
-  Enable TRL: \&#x202b; RTLtext \<br/> (Or empty line)
+  Enable TRL: \‫ RTLtext \<br/> (Or empty line)
