@@ -22,7 +22,7 @@
     - Commit Request
        Each commit has an associated commit message, which is a description explaining why a particular change was made.
 
-    - Merge
+    - Merge\cite{1}
     - Squash
     - Rebase
   - Mention System
@@ -33,4 +33,4 @@
     - README.md
 
 ## Markdown - 
-  Enable TRL: \&#x202b; ‫ RTLtext \<br/> (Or empty line)
+  Enable TRL: \‫ ‫ RTLtext \<br/> (Or empty line)
